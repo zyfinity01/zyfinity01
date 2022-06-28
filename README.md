@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zyfinity01" alt="zyfinity01" /></a> </p>
 
-- 🔭 I’m currently working on **COMP103 Assignments**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
