@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Niraj</h1>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zyfinity01&label=Profile%20views&color=0e75b6&style=flat" alt="zyfinity01" /> </p>
